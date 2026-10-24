@@ -1,11 +1,11 @@
 // Offline cache for the built app. The build fills in CACHE and FILES (see vite.config.ts).
 // Everything the app needs is saved on first load, so it opens with no signal in the backyard.
-const CACHE = "skyplanner-1da2742-53-3292492263";
+const CACHE = "skyplanner-b85951c-53-1188905995";
 const FILES = [
   "./",
   "./apple-touch-icon.png",
   "./assets/index-B_IHqCAF.css",
-  "./assets/index-CiLVDz9o.js",
+  "./assets/index-r7g0qpvY.js",
   "./icon-192.png",
   "./icon-512.png",
   "./index.html",
